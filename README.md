@@ -1,2 +1,2 @@
 # contact-management
- Contact Manager App
+ Contact management App
